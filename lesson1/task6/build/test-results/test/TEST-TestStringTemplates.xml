@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestStringTemplates" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-01-15T15:21:03" hostname="DESKTOP-RVT50BM" time="0.014">
+  <properties/>
+  <testcase name="match1" classname="TestStringTemplates" time="0.013"/>
+  <testcase name="match" classname="TestStringTemplates" time="0.0"/>
+  <testcase name="doNotMatch" classname="TestStringTemplates" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
