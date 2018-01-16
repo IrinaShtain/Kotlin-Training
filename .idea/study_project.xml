@@ -866,7 +866,7 @@
                     <EduTask>
                       <option name="index" value="11" />
                       <option name="name" value="Object expressions" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234730" />
                       <option name="stepikPosition" value="0" />
                       <option name="taskTexts">
@@ -895,9 +895,9 @@
                                           <option name="offset" value="120" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="9" />
-                                      <option name="offset" value="120" />
-                                      <option name="selected" value="false" />
+                                      <option name="length" value="33" />
+                                      <option name="offset" value="121" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -914,7 +914,7 @@
                                                 <option name="placeholderText" value="object {}" />
                                                 <option name="possibleAnswer" value="object : Comparator&lt;Int&gt; {&#10;    override fun compare(x: Int, y: Int) = y - x&#10;}" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -924,7 +924,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -940,7 +940,7 @@
                     <EduTask>
                       <option name="index" value="12" />
                       <option name="name" value="SAM conversions" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234731" />
                       <option name="stepikPosition" value="0" />
                       <option name="taskTexts">
@@ -969,9 +969,9 @@
                                           <option name="offset" value="130" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="14" />
                                       <option name="offset" value="130" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -988,7 +988,7 @@
                                                 <option name="placeholderText" value="TODO()" />
                                                 <option name="possibleAnswer" value="y - x" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -998,7 +998,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -1014,7 +1014,7 @@
                     <EduTask>
                       <option name="index" value="13" />
                       <option name="name" value="Extensions on collections" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234732" />
                       <option name="stepikPosition" value="0" />
                       <option name="taskTexts">
@@ -1043,9 +1043,9 @@
                                           <option name="offset" value="58" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="52" />
+                                      <option name="length" value="19" />
                                       <option name="offset" value="58" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -1062,7 +1062,7 @@
                                                 <option name="placeholderText" value="//TODO(&quot;return the list sorted in descending order&quot;)" />
                                                 <option name="possibleAnswer" value=".sortedDescending()" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -1072,7 +1072,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
