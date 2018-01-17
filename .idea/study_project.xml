@@ -3373,7 +3373,7 @@
                     <EduTask>
                       <option name="index" value="1" />
                       <option name="name" value="Properties" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234752" />
                       <option name="stepikPosition" value="0" />
                       <option name="taskTexts">
@@ -3402,9 +3402,9 @@
                                           <option name="offset" value="95" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="3" />
+                                      <option name="length" value="70" />
                                       <option name="offset" value="95" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3421,7 +3421,7 @@
                                                 <option name="placeholderText" value="set" />
                                                 <option name="possibleAnswer" value="set(v: Int?) {&#10;            field = v&#10;            counter++&#10;        }" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3431,7 +3431,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -3447,7 +3447,7 @@
                     <EduTask>
                       <option name="index" value="2" />
                       <option name="name" value="Lazy property" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234753" />
                       <option name="stepikPosition" value="0" />
                       <option name="taskTexts">
@@ -3476,9 +3476,9 @@
                                           <option name="offset" value="53" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="10" />
-                                      <option name="offset" value="53" />
-                                      <option name="selected" value="false" />
+                                      <option name="length" value="5" />
+                                      <option name="offset" value="60" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3495,7 +3495,7 @@
                                                 <option name="placeholderText" value="/* TODO */" />
                                                 <option name="possibleAnswer" value="var value: Int? = null" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3511,9 +3511,9 @@
                                           <option name="offset" value="110" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="110" />
-                                      <option name="selected" value="false" />
+                                      <option name="length" value="12" />
+                                      <option name="offset" value="83" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3530,7 +3530,7 @@
                                                 <option name="placeholderText" value="TODO()" />
                                                 <option name="possibleAnswer" value="if (value == null) {&#10;                value = initializer()&#10;            }&#10;            return value!!" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3540,7 +3540,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -3556,7 +3556,7 @@
                     <EduTask>
                       <option name="index" value="3" />
                       <option name="name" value="Delegates examples" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234754" />
                       <option name="stepikPosition" value="0" />
                       <option name="taskTexts">
@@ -3585,9 +3585,9 @@
                                           <option name="offset" value="75" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="75" />
-                                      <option name="selected" value="false" />
+                                      <option name="length" value="203" />
+                                      <option name="offset" value="-129" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3604,7 +3604,7 @@
                                                 <option name="placeholderText" value="TODO()" />
                                                 <option name="possibleAnswer" value="lazy(initializer)" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3614,7 +3614,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -3630,7 +3630,7 @@
                     <EduTask>
                       <option name="index" value="4" />
                       <option name="name" value="Delegates how it works" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234755" />
                       <option name="stepikPosition" value="0" />
                       <option name="taskTexts">
@@ -3675,9 +3675,9 @@
                                           <option name="offset" value="302" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="302" />
-                                      <option name="selected" value="false" />
+                                      <option name="length" value="30" />
+                                      <option name="offset" value="321" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3694,7 +3694,7 @@
                                                 <option name="placeholderText" value="TODO()" />
                                                 <option name="possibleAnswer" value="return timeInMillis!!.toDate()" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3710,9 +3710,9 @@
                                           <option name="offset" value="403" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="403" />
-                                      <option name="selected" value="false" />
+                                      <option name="length" value="31" />
+                                      <option name="offset" value="446" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3729,7 +3729,7 @@
                                                 <option name="placeholderText" value="TODO()" />
                                                 <option name="possibleAnswer" value="timeInMillis = value.toMillis()" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3739,7 +3739,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
