@@ -4263,7 +4263,7 @@
                     <EduTask>
                       <option name="index" value="1" />
                       <option name="name" value="Generic functions" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234761" />
                       <option name="stepikPosition" value="0" />
                       <option name="taskTexts">
@@ -4292,9 +4292,9 @@
                                           <option name="offset" value="20" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="26" />
+                                      <option name="length" value="306" />
                                       <option name="offset" value="20" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -4311,7 +4311,7 @@
                                                 <option name="placeholderText" value="fun partitionTo() = TODO()" />
                                                 <option name="possibleAnswer" value="fun &lt;T, C: MutableCollection&lt;T&gt;&gt; Collection&lt;T&gt;.partitionTo(first: C, second: C, predicate: (T) -&gt; Boolean): Pair&lt;C, C&gt; {&#10;    for (element in this) {&#10;        if (predicate(element)) {&#10;            first.add(element)&#10;        } else {&#10;            second.add(element)&#10;        }&#10;    }&#10;    return Pair(first, second)&#10;}" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -4321,7 +4321,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />

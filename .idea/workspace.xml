@@ -10,65 +10,12 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab" afterPath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab.keystream" afterPath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab.keystream" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab.keystream.len" afterPath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab.keystream.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab.len" afterPath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab.len" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab.values.at" afterPath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab.values.at" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab_i" afterPath="$PROJECT_DIR$/build/kotlin-build/caches/artifact-difference.tab_i" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/last-build.bin" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/last-build.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/lesson1.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/lesson1.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task1/lesson1-task1.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task1/lesson1-task1.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task10/lesson1-task10.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task10/lesson1-task10.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task11/lesson1-task11.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task11/lesson1-task11.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task12/lesson1-task12.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task12/lesson1-task12.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task13/task13.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task13/task13.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task2/lesson1-task2.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task2/lesson1-task2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task3/lesson1-task3.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task3/lesson1-task3.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task4/lesson1-task4.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task4/lesson1-task4.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task5/lesson1-task5.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task5/lesson1-task5.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task6/lesson1-task6.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task6/lesson1-task6.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task7/lesson1-task7.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task7/lesson1-task7.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task8/lesson1-task8.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task8/lesson1-task8.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson1/task9/lesson1-task9.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson1/task9/lesson1-task9.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson2/lesson2.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson2/lesson2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson2/task1/lesson2-task1.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson2/task1/lesson2-task1.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson2/task2/lesson2-task2.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson2/task2/lesson2-task2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson2/task3/lesson2-task3.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson2/task3/lesson2-task3.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson2/task4/lesson2-task4.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson2/task4/lesson2-task4.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson2/task5/lesson2-task5.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson2/task5/lesson2-task5.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson2/task6/lesson2-task6.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson2/task6/lesson2-task6.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson2/task7/lesson2-task7.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson2/task7/lesson2-task7.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/lesson3.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/lesson3.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task1/lesson3-task1.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task1/lesson3-task1.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task10/lesson3-task10.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task10/lesson3-task10.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task11/lesson3-task11.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task11/lesson3-task11.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task12/lesson3-task12.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task12/lesson3-task12.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task2/lesson3-task2.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task2/lesson3-task2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task3/lesson3-task3.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task3/lesson3-task3.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task4/lesson3-task4.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task4/lesson3-task4.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task5/lesson3-task5.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task5/lesson3-task5.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task6/lesson3-task6.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task6/lesson3-task6.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task7/lesson3-task7.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task7/lesson3-task7.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task8/lesson3-task8.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task8/lesson3-task8.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson3/task9/lesson3-task9.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson3/task9/lesson3-task9.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson4/lesson4.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson4/lesson4.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson4/task1/lesson4-task1.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson4/task1/lesson4-task1.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson4/task2/lesson4-task2.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson4/task2/lesson4-task2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson4/task3/lesson4-task3.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson4/task3/lesson4-task3.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson4/task4/lesson4-task4.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson4/task4/lesson4-task4.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson5/lesson5.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson5/lesson5.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson5/task1/lesson5-task1.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson5/task1/lesson5-task1.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson5/task2/lesson5-task2.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson5/task2/lesson5-task2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson5/task3/lesson5-task3.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson5/task3/lesson5-task3.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson5/task4/lesson5-task4.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson5/task4/lesson5-task4.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson5/task5/lesson5-task5.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson5/task5/lesson5-task5.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson6/lesson6.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson6/lesson6.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/lesson6/task1/lesson6-task1.iml" afterPath="$PROJECT_DIR$/.idea/modules/lesson6/task1/lesson6-task1.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/util/util.iml" afterPath="$PROJECT_DIR$/.idea/modules/util/util.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/study_project.xml" afterPath="$PROJECT_DIR$/.idea/study_project.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson5/task1/src/Task.kt" afterPath="$PROJECT_DIR$/lesson5/task1/src/Task.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson5/task2/src/Task.kt" afterPath="$PROJECT_DIR$/lesson5/task2/src/Task.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson5/task3/src/Task.kt" afterPath="$PROJECT_DIR$/lesson5/task3/src/Task.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson5/task4/src/Task.kt" afterPath="$PROJECT_DIR$/lesson5/task4/src/Task.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson5/task5/src/Task.kt" afterPath="$PROJECT_DIR$/lesson5/task5/src/Task.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson6/task1/src/Task.kt" afterPath="$PROJECT_DIR$/lesson6/task1/src/Task.kt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -92,11 +39,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson5/task5/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state relative-caret-position="85">
-              <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+              <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson6/task1/src/Task.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state relative-caret-position="255">
+              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -8562,6 +8519,7 @@
         <option value="$PROJECT_DIR$/lesson5/task3/src/Task.kt" />
         <option value="$PROJECT_DIR$/lesson5/task4/src/Task.kt" />
         <option value="$PROJECT_DIR$/lesson5/task5/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson6/task1/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -8726,7 +8684,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516288877775" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516289508884" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -8774,7 +8732,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516288877775" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1516289508884" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -8977,7 +8935,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516202116173</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Builds is done">
+      <created>1516288903110</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1516288903110</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -8998,7 +8963,7 @@
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25134265" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Task Description" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23845327" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Task Description" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28517723" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Fabric" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -9023,20 +8988,14 @@
     <MESSAGE value="conventions is done" />
     <MESSAGE value="collections is done" />
     <MESSAGE value="Properties is done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Properties is done" />
+    <MESSAGE value="Builds is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Builds is done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson2/task3/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson2/task4/src/DateUtil.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state relative-caret-position="170">
@@ -9392,7 +9351,15 @@
     <entry file="file://$PROJECT_DIR$/lesson5/task5/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state relative-caret-position="85">
-          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson6/task1/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="255">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
           <folding />
         </state>
       </provider>
