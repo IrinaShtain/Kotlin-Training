@@ -1,4 +1,7 @@
-fun <T> T.myApply(f: T.() -> Unit): T { TODO() }
+fun <T> T.myApply(f: T.() -> Unit): T {
+
+    return this.apply(f)
+ }
 
 fun createString(): String {
     return StringBuilder().myApply {
