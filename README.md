@@ -1,2 +1,2 @@
 # Kotlin-Training
-Has resolved exercises of "https://github.com/jetbrains/workshop-jb"
+Has resolved exercises from "https://github.com/jetbrains/workshop-jb"
